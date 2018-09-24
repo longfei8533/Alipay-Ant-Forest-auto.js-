@@ -1,4 +1,3 @@
-# Alipay-Ant-Forest-auto.js-
 0、依赖auto.js,睡梦中自动收抢蚂蚁森林能量 
 1、android 版本大于7.0，无需root。 
 2、要将蚂蚁森林放在支付宝首页。 
