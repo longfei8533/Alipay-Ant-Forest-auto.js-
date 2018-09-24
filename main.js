@@ -40,7 +40,7 @@ function unlock() {
         sleep(500);
         swipe(_width*0.5, _height*0.8, _width*0.5, _height*0.2, 200);
         sleep(500);
-        gesture(2000, [190*zoomX, 735*zoomY], [190*zoomX, 905*zoomY], [530*zoomX, 905*zoomY], [530*zoomX, 1075*zoomY]);
+        // gesture(2000, [190*zoomX, 735*zoomY], [190*zoomX, 905*zoomY], [530*zoomX, 905*zoomY], [530*zoomX, 1075*zoomY]); //模拟解锁，要根据自己设置的密码自行修改
         sleep(2000);
     }
 }
