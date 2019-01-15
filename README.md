@@ -1,4 +1,4 @@
-0、依赖auto.js,睡梦中自动收抢蚂蚁森林能量 
+0、需要下载 auto.js app。https://www.coolapk.com/apk/com.stardust.scriptdroid?from=rss&version=2.0.15
 1、android 版本大于7.0，无需root。 
 2、要将蚂蚁森林放在支付宝首页。 
 3、默认分辨率为1280*720，其他分辨率会自动缩放，但是不保证正常运行，可自行修改。如果手机修改了分辨率，需要重启才能正确运行。 
