@@ -1,4 +1,4 @@
-##自动解锁并打开支付宝循环收取能量
+## 自动解锁并打开支付宝循环收取能量
 - 需要下载 auto.js app。https://www.coolapk.com/apk/com.stardust.scriptdroid?from=rss&version=2.0.15
 - android 版本大于7.0，无需root。 
 - 要将蚂蚁森林放在支付宝首页。 
